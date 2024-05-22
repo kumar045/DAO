@@ -9,12 +9,14 @@ Team Members:
     Yashavi Pandey - Frontend Engineer (5 years experience in Frontend Development)
     Shivam Jha - AI Engineer (5 years experience in AI and Data Science)
     Nikhil - Backend Engineer (5 years experience in Backend Development)
+    Ansul - React Developer (3 years experience in Frontend Development)
 
 Relevant Experience:
 
     Development of AI-driven educational tools.
     Experience in real-time collaborative platforms.
     Expertise in natural language processing, machine learning, and voice assistant technologies.
+    Expertise in Full Stack Web Development
 
 Introduction of the Solution
 
@@ -107,5 +109,5 @@ We look forward to the opportunity to contribute to the Community-based Tech Lea
 
 Best regards,
 
-Shivam Jha
+Yashavi Pandey
 AI Innovators Team Lead
